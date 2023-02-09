@@ -1,15 +1,15 @@
 ### Oi, eu sou Marcos Nascimento.
+#### Estudante da Universidade Federal do Agreste de Pernambuco.
 
 <div>
   <a href="https://github.com/MarcosNascimento46">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosNascimento46&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
-
-<div style="display: inline_block"><br>
+### Ferramentas e Tecnologias
   <img align="center" alt="Marcos-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  ## Contatos:
+  ### Contatos:
 
 <div>
 
